@@ -4,9 +4,9 @@ Run voice calls, SIP trunks and SMS sending on your own servers behind an API.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Fonoster](https://github.com/fonoster/fonoster) | TypeScript | MIT | [v0.47.2](https://github.com/fonoster/fonoster/releases/tag/v0.47.2) | 8158 | Twilio (partial) |
-| [SMS Gateway for Android](https://github.com/capcom6/android-sms-gateway) | Kotlin | Apache-2.0 | [v1.78.0](https://github.com/capcom6/android-sms-gateway/releases/tag/v1.78.0) | 5968 | Twilio (partial) |
-| [FreeSWITCH](https://github.com/signalwire/freeswitch) | C | Other | [v1.11.3](https://github.com/signalwire/freeswitch/releases/tag/v1.11.3) | 5271 | Twilio (partial) |
+| [Fonoster](https://github.com/fonoster/fonoster) | TypeScript | MIT | [v0.47.2](https://github.com/fonoster/fonoster/releases/tag/v0.47.2) | 8160 | Twilio (partial) |
+| [SMS Gateway for Android](https://github.com/capcom6/android-sms-gateway) | Kotlin | Apache-2.0 | [v1.78.0](https://github.com/capcom6/android-sms-gateway/releases/tag/v1.78.0) | 5970 | Twilio (partial) |
+| [FreeSWITCH](https://github.com/signalwire/freeswitch) | C | Other | [v1.11.3](https://github.com/signalwire/freeswitch/releases/tag/v1.11.3) | 5273 | Twilio (partial) |
 | [Asterisk](https://github.com/asterisk/asterisk) | C | Other | [certified-22.8-cert5](https://github.com/asterisk/asterisk/releases/tag/certified-22.8-cert5) | 3656 | Twilio (partial) |
 | [textbee](https://github.com/textbee/textbee) | TypeScript | MIT | [v2.9.0](https://github.com/textbee/textbee/releases/tag/v2.9.0) | 3228 | Twilio (partial) |
 | [Kamailio](https://github.com/kamailio/kamailio) | C | Other | [6.1.5](https://github.com/kamailio/kamailio/releases/tag/6.1.5) signed | 2991 | Twilio (partial) |
