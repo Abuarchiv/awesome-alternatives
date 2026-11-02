@@ -5687,7 +5687,6 @@
   {"type":"released","slug":"la-suite-docs","at":"2026-10-24T10:46:03.094Z","commit":"0f158a22c32887d0e4074c0db30e5f3aa06944ea","from":"v6.0.2","to":"v6.0.3"},
   {"type":"released","slug":"langflow","at":"2026-10-24T10:46:03.094Z","commit":"0f158a22c32887d0e4074c0db30e5f3aa06944ea","from":"v1.12.7","to":"v1.13.0"},
   {"type":"released","slug":"langfuse","at":"2026-10-24T10:46:03.094Z","commit":"0f158a22c32887d0e4074c0db30e5f3aa06944ea","from":"v4.67.0","to":"v4.69.0"},
-  {"type":"released","slug":"lfsx","at":"2026-10-24T10:46:03.094Z","commit":"0f158a22c32887d0e4074c0db30e5f3aa06944ea","from":"site@2026.10.34","to":"v1.26.37"},
   {"type":"released","slug":"libredesk","at":"2026-10-24T10:46:03.094Z","commit":"0f158a22c32887d0e4074c0db30e5f3aa06944ea","from":"v2.8.0","to":"v2.9.0"},
   {"type":"released","slug":"libreoffice","at":"2026-10-24T10:46:03.094Z","commit":"0f158a22c32887d0e4074c0db30e5f3aa06944ea","from":"libreoffice-26.8.2.1","to":"libreoffice-26.8.2.2"},
   {"type":"released","slug":"librera","at":"2026-10-24T10:46:03.094Z","commit":"0f158a22c32887d0e4074c0db30e5f3aa06944ea","from":"10.0.0","to":"10.0.7"},
@@ -7270,5 +7269,6 @@
   {"type":"released","slug":"wondercms","at":"2026-11-02T05:17:17.083Z","commit":null,"from":"3.7.1","to":"3.7.2"},
   {"type":"released","slug":"yaak","at":"2026-11-02T05:17:17.083Z","commit":null,"from":"v2026.9.0","to":"v2026.9.1"},
   {"type":"released","slug":"zigbee2mqtt","at":"2026-11-02T05:17:17.083Z","commit":null,"from":"2.14.2","to":"2.14.3"},
-  {"type":"released","slug":"zot","at":"2026-11-02T05:17:17.083Z","commit":null,"from":"v2.1.22","to":"v2.1.23"}
+  {"type":"released","slug":"zot","at":"2026-11-02T05:17:17.083Z","commit":null,"from":"v2.1.22","to":"v2.1.23"},
+  {"type":"released","slug":"lfsx","at":"2026-11-02T22:17:54.205Z","commit":null,"from":"v1.26.46","to":"v1.26.47"}
 ]
