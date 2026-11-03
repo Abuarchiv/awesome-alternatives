@@ -4,6 +4,12 @@ All notable changes to `site` will be documented here.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.140.27] - 2026-11-03
+
+### Bug Fixes
+
+- fix(deps): bump undici, zod, sharp, source-map-js, vite in site (#477)
+
 ## [0.140.26] - 2026-11-03
 
 ### Bug Fixes
