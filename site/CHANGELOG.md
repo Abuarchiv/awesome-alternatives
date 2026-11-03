@@ -4,6 +4,12 @@ All notable changes to `site` will be documented here.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.141.0] - 2026-11-03
+
+### Features
+
+- feat(ci): comment the mergeable date on pull requests labelled too-new (#478)
+
 ## [0.140.28] - 2026-11-03
 
 ### Bug Fixes

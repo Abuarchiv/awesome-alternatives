@@ -4,6 +4,12 @@ All notable changes to `refresh` will be documented here.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.19.0] - 2026-11-03
+
+### Features
+
+- feat(ci): comment the mergeable date on pull requests labelled too-new (#478)
+
 ## [0.18.0] - 2026-10-27
 
 ### Features
