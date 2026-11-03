@@ -3685,7 +3685,6 @@
   {"type":"released","slug":"misp","at":"2026-10-10T10:27:14.389Z","commit":"af547ebbb33f0faec38524adf299eea1a74a196f","from":"v2.5.48","to":"v2.5.50"},
   {"type":"released","slug":"prettier","at":"2026-10-10T10:27:14.389Z","commit":"af547ebbb33f0faec38524adf299eea1a74a196f","from":"3.9.9","to":"3.9.10"},
   {"type":"released","slug":"rubocop","at":"2026-10-10T10:27:14.389Z","commit":"af547ebbb33f0faec38524adf299eea1a74a196f","from":"v1.91.0","to":"v1.92.0"},
-  {"type":"released","slug":"stashden","at":"2026-10-10T10:27:14.389Z","commit":"af547ebbb33f0faec38524adf299eea1a74a196f","from":"v0.35.0","to":"v0.36.0"},
   {"type":"added","slug":"zen-idp","at":"2026-10-10T10:27:14.389Z","commit":"af547ebbb33f0faec38524adf299eea1a74a196f"},
   {"type":"released","slug":"cherry-studio","at":"2026-10-10T16:32:29.498Z","commit":"2e7bd30d0fb84201f68c22ecf37424f0cad79396","from":"v2.1.4","to":"v2.1.5"},
   {"type":"released","slug":"clearflask","at":"2026-10-10T16:32:29.498Z","commit":"2e7bd30d0fb84201f68c22ecf37424f0cad79396","from":"2.6.4","to":"2.7.0"},
@@ -7425,5 +7424,6 @@
   {"type":"released","slug":"wekan","at":"2026-11-03T05:17:19.716Z","commit":null,"from":"v12.77","to":"v12.87"},
   {"type":"released","slug":"wildduck","at":"2026-11-03T05:17:19.716Z","commit":null,"from":"v1.55.2","to":"v1.55.3"},
   {"type":"released","slug":"windmill","at":"2026-11-03T05:17:19.716Z","commit":null,"from":"v1.855.1","to":"v1.857.0"},
-  {"type":"released","slug":"x-anylabeling","at":"2026-11-03T05:17:19.716Z","commit":null,"from":"v4.3.0","to":"v4.3.1"}
+  {"type":"released","slug":"x-anylabeling","at":"2026-11-03T05:17:19.716Z","commit":null,"from":"v4.3.0","to":"v4.3.1"},
+  {"type":"released","slug":"stashden","at":"2026-11-03T15:16:08.992Z","commit":null,"from":"v0.53.3","to":"v0.53.4"}
 ]
