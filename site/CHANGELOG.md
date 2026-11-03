@@ -4,6 +4,13 @@ All notable changes to `site` will be documented here.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/).
 
+## [0.141.1] - 2026-11-03
+
+### Bug Fixes
+
+- chore(catalog): refresh looot-seo
+- chore(catalog): refresh agent-qa
+
 ## [0.141.0] - 2026-11-03
 
 ### Features
