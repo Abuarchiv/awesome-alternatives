@@ -4,17 +4,17 @@ Run virtual machines and system containers across a cluster of hosts.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Firecracker](https://github.com/firecracker-microvm/firecracker) | Rust | Apache-2.0 | [v1.17.0](https://github.com/firecracker-microvm/firecracker/releases/tag/v1.17.0) | 37800 | Cloud Hypervisor (partial) |
-| [Vagrant](https://github.com/hashicorp/vagrant) | Ruby | MIT | [v2.4.9](https://github.com/hashicorp/vagrant/releases/tag/v2.4.9) | 27219 | none |
-| [QEMU](https://github.com/qemu/qemu) | C | Other | [v11.1.3](https://github.com/qemu/qemu/releases/tag/v11.1.3) | 13980 | none |
-| [KubeVirt](https://github.com/kubevirt/kubevirt) | Go | Apache-2.0 | [v1.9.1](https://github.com/kubevirt/kubevirt/releases/tag/v1.9.1) signed | 7158 | VMware vSphere (partial) |
-| [Incus](https://github.com/lxc/incus) | Go | Apache-2.0 | [v7.6.0](https://github.com/lxc/incus/releases/tag/v7.6.0) signed | 6566 | LXD (full), VMware vSphere (partial) |
-| [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) | Rust | none | [v54.0](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v54.0) signed | 6456 | Firecracker (partial) |
-| [Harvester](https://github.com/harvester/harvester) | Go | Apache-2.0 | [v1.9.0](https://github.com/harvester/harvester/releases/tag/v1.9.0) | 5232 | VMware vSphere (full) |
+| [Firecracker](https://github.com/firecracker-microvm/firecracker) | Rust | Apache-2.0 | [v1.17.0](https://github.com/firecracker-microvm/firecracker/releases/tag/v1.17.0) | 37806 | Cloud Hypervisor (partial) |
+| [Vagrant](https://github.com/hashicorp/vagrant) | Ruby | MIT | [v2.4.9](https://github.com/hashicorp/vagrant/releases/tag/v2.4.9) | 27218 | none |
+| [QEMU](https://github.com/qemu/qemu) | C | Other | [v11.1.3](https://github.com/qemu/qemu/releases/tag/v11.1.3) | 13982 | none |
+| [KubeVirt](https://github.com/kubevirt/kubevirt) | Go | Apache-2.0 | [v1.9.1](https://github.com/kubevirt/kubevirt/releases/tag/v1.9.1) signed | 7161 | VMware vSphere (partial) |
+| [Incus](https://github.com/lxc/incus) | Go | Apache-2.0 | [v7.6.0](https://github.com/lxc/incus/releases/tag/v7.6.0) signed | 6577 | LXD (full), VMware vSphere (partial) |
+| [Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) | Rust | none | [v54.0](https://github.com/cloud-hypervisor/cloud-hypervisor/releases/tag/v54.0) signed | 6460 | Firecracker (partial) |
+| [Harvester](https://github.com/harvester/harvester) | Go | Apache-2.0 | [v1.9.0](https://github.com/harvester/harvester/releases/tag/v1.9.0) | 5233 | VMware vSphere (full) |
 | [LXD](https://github.com/canonical/lxd) | Go | AGPL-3.0 | [lxd-6.10.1](https://github.com/canonical/lxd/releases/tag/lxd-6.10.1) signed | 4847 | VMware vSphere (partial) |
 | [Apache CloudStack](https://github.com/apache/cloudstack) | Java | Apache-2.0 | [4.23.0.0](https://github.com/apache/cloudstack/releases/tag/4.23.0.0) signed | 3125 | VMware vSphere (partial) |
-| [OpenNebula](https://github.com/OpenNebula/one) | JavaScript | Apache-2.0 | [release-7.4.1](https://github.com/OpenNebula/one/releases/tag/release-7.4.1) signed | 1764 | VMware vSphere (full) |
-| [VirtualBox](https://github.com/VirtualBox/virtualbox) | C | GPL-3.0 | [v7.2.22](https://github.com/VirtualBox/virtualbox/releases/tag/v7.2.22) | 1476 | none |
+| [OpenNebula](https://github.com/OpenNebula/one) | JavaScript | Apache-2.0 | [release-7.4.1](https://github.com/OpenNebula/one/releases/tag/release-7.4.1) signed | 1765 | VMware vSphere (full) |
+| [VirtualBox](https://github.com/VirtualBox/virtualbox) | C | GPL-3.0 | [v7.2.22](https://github.com/VirtualBox/virtualbox/releases/tag/v7.2.22) | 1478 | none |
 | [Xen Orchestra](https://github.com/vatesfr/xen-orchestra) | JavaScript | Other | [xo-lite-v0.27.0](https://github.com/vatesfr/xen-orchestra/releases/tag/xo-lite-v0.27.0) signed | 997 | VMware vSphere (partial) |
 
 [All categories](../README.md#catalog)

@@ -4,9 +4,9 @@ One OpenAI-compatible API in front of many model providers, with keys, budgets, 
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [LiteLLM](https://github.com/BerriAI/litellm) | Python | Other | [v1.106.6](https://github.com/BerriAI/litellm/releases/tag/v1.106.6) signed | 62592 | OpenRouter (partial) |
-| [New API](https://github.com/QuantumNous/new-api) | Go | AGPL-3.0 | [v1.0.0-rc.47](https://github.com/QuantumNous/new-api/releases/tag/v1.0.0-rc.47) signed | 51243 | OpenRouter (partial) |
-| [Portkey Gateway](https://github.com/Portkey-AI/gateway) | TypeScript | MIT | [v1.15.2](https://github.com/Portkey-AI/gateway/releases/tag/v1.15.2) signed | 13303 | OpenRouter (partial) |
-| [Bifrost](https://github.com/maximhq/bifrost) | Go | Apache-2.0 | [helm-chart-v2.1.47](https://github.com/maximhq/bifrost/releases/tag/helm-chart-v2.1.47) signed | 9307 | OpenRouter (partial) |
+| [LiteLLM](https://github.com/BerriAI/litellm) | Python | Other | [v1.106.6](https://github.com/BerriAI/litellm/releases/tag/v1.106.6) signed | 62635 | OpenRouter (partial) |
+| [New API](https://github.com/QuantumNous/new-api) | Go | AGPL-3.0 | [v1.0.0-rc.47](https://github.com/QuantumNous/new-api/releases/tag/v1.0.0-rc.47) signed | 51285 | OpenRouter (partial) |
+| [Portkey Gateway](https://github.com/Portkey-AI/gateway) | TypeScript | MIT | [v1.15.2](https://github.com/Portkey-AI/gateway/releases/tag/v1.15.2) signed | 13311 | OpenRouter (partial) |
+| [Bifrost](https://github.com/maximhq/bifrost) | Go | Apache-2.0 | [helm-chart-v2.1.47](https://github.com/maximhq/bifrost/releases/tag/helm-chart-v2.1.47) signed | 9322 | OpenRouter (partial) |
 
 [All categories](../README.md#catalog)

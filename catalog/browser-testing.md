@@ -4,13 +4,13 @@ Drive real browsers for end-to-end tests.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Playwright](https://github.com/microsoft/playwright) | TypeScript | Apache-2.0 | [v1.64.1](https://github.com/microsoft/playwright/releases/tag/v1.64.1) | 99148 | Selenium (full), Puppeteer (full), Cypress (full) |
-| [Puppeteer](https://github.com/puppeteer/puppeteer) | TypeScript | Apache-2.0 | [browsers-v3.2.6](https://github.com/puppeteer/puppeteer/releases/tag/browsers-v3.2.6) signed | 95792 | Selenium (partial) |
-| [Cypress](https://github.com/cypress-io/cypress) | TypeScript | MIT | [v16.2.1](https://github.com/cypress-io/cypress/releases/tag/v16.2.1) | 51018 | Selenium (partial) |
-| [Selenium](https://github.com/SeleniumHQ/selenium) | Java | Apache-2.0 | [selenium-4.52.0](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.52.0) signed | 34585 | none |
-| [chromedp](https://github.com/chromedp/chromedp) | Go | MIT | [v0.21.1](https://github.com/chromedp/chromedp/releases/tag/v0.21.1) | 13350 | Puppeteer (partial) |
+| [Playwright](https://github.com/microsoft/playwright) | TypeScript | Apache-2.0 | [v1.64.1](https://github.com/microsoft/playwright/releases/tag/v1.64.1) | 99194 | Selenium (full), Puppeteer (full), Cypress (full) |
+| [Puppeteer](https://github.com/puppeteer/puppeteer) | TypeScript | Apache-2.0 | [browsers-v3.2.6](https://github.com/puppeteer/puppeteer/releases/tag/browsers-v3.2.6) signed | 95793 | Selenium (partial) |
+| [Cypress](https://github.com/cypress-io/cypress) | TypeScript | MIT | [v16.2.1](https://github.com/cypress-io/cypress/releases/tag/v16.2.1) | 51016 | Selenium (partial) |
+| [Selenium](https://github.com/SeleniumHQ/selenium) | Java | Apache-2.0 | [selenium-4.52.0](https://github.com/SeleniumHQ/selenium/releases/tag/selenium-4.52.0) signed | 34584 | none |
+| [chromedp](https://github.com/chromedp/chromedp) | Go | MIT | [v0.21.1](https://github.com/chromedp/chromedp/releases/tag/v0.21.1) | 13351 | Puppeteer (partial) |
 | [Nightwatch](https://github.com/nightwatchjs/nightwatch) | JavaScript | MIT | [v3.16.0](https://github.com/nightwatchjs/nightwatch/releases/tag/v3.16.0) | 11955 | Cypress (full) |
-| [TestCafe](https://github.com/DevExpress/testcafe) | JavaScript | MIT | [v3.7.7](https://github.com/DevExpress/testcafe/releases/tag/v3.7.7) signed | 9894 | Selenium (partial) |
+| [TestCafe](https://github.com/DevExpress/testcafe) | JavaScript | MIT | [v3.7.7](https://github.com/DevExpress/testcafe/releases/tag/v3.7.7) signed | 9895 | Selenium (partial) |
 | [WebdriverIO](https://github.com/webdriverio/webdriverio) | TypeScript | MIT | [v10.1.1](https://github.com/webdriverio/webdriverio/releases/tag/v10.1.1) | 9869 | Selenium (full) |
 | [agent-qa](https://github.com/vostride/agent-qa) | TypeScript | Other | [v0.2.6](https://github.com/vostride/agent-qa/releases/tag/v0.2.6) | 921 | Playwright (partial) |
 

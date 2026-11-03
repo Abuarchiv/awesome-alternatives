@@ -4,22 +4,22 @@ Stream a personal library of films, series, music and podcasts to your devices.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Jellyfin](https://github.com/jellyfin/jellyfin) | C# | GPL-2.0 | [v12.4](https://github.com/jellyfin/jellyfin/releases/tag/v12.4) | 58953 | Plex (full), Emby (full), Netflix (partial) |
-| [Navidrome](https://github.com/navidrome/navidrome) | Go | GPL-3.0 | [v0.64.2](https://github.com/navidrome/navidrome/releases/tag/v0.64.2) signed | 24495 | Plex (partial), Spotify (partial) |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) | C# | GPL-2.0 | [v12.4](https://github.com/jellyfin/jellyfin/releases/tag/v12.4) | 58970 | Plex (full), Emby (full), Netflix (partial) |
+| [Navidrome](https://github.com/navidrome/navidrome) | Go | GPL-3.0 | [v0.64.2](https://github.com/navidrome/navidrome/releases/tag/v0.64.2) signed | 24509 | Plex (partial), Spotify (partial) |
 | [Koel](https://github.com/koel/koel) | PHP | MIT | [v9.15.0](https://github.com/koel/koel/releases/tag/v9.15.0) | 17328 | Plex (partial), Spotify (partial) |
-| [Audiobookshelf](https://github.com/advplyr/audiobookshelf) | JavaScript | GPL-3.0 | [v2.37.2](https://github.com/advplyr/audiobookshelf/releases/tag/v2.37.2) | 14895 | Audible (partial) |
+| [Audiobookshelf](https://github.com/advplyr/audiobookshelf) | JavaScript | GPL-3.0 | [v2.37.2](https://github.com/advplyr/audiobookshelf/releases/tag/v2.37.2) | 14899 | Audible (partial) |
 | [Streama](https://github.com/streamaserver/streama) | JavaScript | MIT | [v1.11.2](https://github.com/streamaserver/streama/releases/tag/v1.11.2) | 9820 | Netflix (partial), Emby (partial) |
 | [Mopidy](https://github.com/mopidy/mopidy) | Python | Apache-2.0 | [v4.0.5](https://github.com/mopidy/mopidy/releases/tag/v4.0.5) | 8610 | Spotify (partial) |
-| [Snapcast](https://github.com/snapcast/snapcast) | C++ | GPL-3.0 | [v0.35.0](https://github.com/snapcast/snapcast/releases/tag/v0.35.0) | 8040 | Sonos (partial) |
+| [Snapcast](https://github.com/snapcast/snapcast) | C++ | GPL-3.0 | [v0.35.0](https://github.com/snapcast/snapcast/releases/tag/v0.35.0) | 8043 | Sonos (partial) |
 | [Black Candy](https://github.com/blackcandy-org/blackcandy) | Ruby | MIT | [v3.2.1](https://github.com/blackcandy-org/blackcandy/releases/tag/v3.2.1) | 4429 | Spotify (partial) |
 | [Ampache](https://github.com/ampache/ampache) | PHP | AGPL-3.0 | [8.3.0](https://github.com/ampache/ampache/releases/tag/8.3.0) signed | 3842 | Plex (partial), Spotify (partial) |
-| [Music Assistant](https://github.com/music-assistant/server) | Python | Apache-2.0 | [2.10.9](https://github.com/music-assistant/server/releases/tag/2.10.9) | 3272 | Spotify (partial), Sonos (partial) |
+| [Music Assistant](https://github.com/music-assistant/server) | Python | Apache-2.0 | [2.10.9](https://github.com/music-assistant/server/releases/tag/2.10.9) | 3276 | Spotify (partial), Sonos (partial) |
 | [Polaris](https://github.com/agersant/polaris) | Rust | MIT | [0.16.1](https://github.com/agersant/polaris/releases/tag/0.16.1) | 2735 | Spotify (partial) |
 | [Tunarr](https://github.com/chrisbenincasa/tunarr) | TypeScript | Zlib | [v2026.11.1](https://github.com/chrisbenincasa/tunarr/releases/tag/v2026.11.1) signed | 2698 | none |
-| [Universal Media Server](https://github.com/UniversalMediaServer/UniversalMediaServer) | Java | GPL-2.0 | [15.8.2](https://github.com/UniversalMediaServer/UniversalMediaServer/releases/tag/15.8.2) | 2668 | Netflix (partial), Emby (partial) |
-| [gonic](https://github.com/sentriz/gonic) | Go | GPL-3.0 | [v0.23.0](https://github.com/sentriz/gonic/releases/tag/v0.23.0) signed | 2644 | Spotify (partial) |
-| [OwnTone](https://github.com/owntone/owntone-server) | C | GPL-2.0 | [29.3](https://github.com/owntone/owntone-server/releases/tag/29.3) | 2582 | none |
-| [Kyoo](https://github.com/zoriya/Kyoo) | TypeScript | GPL-3.0 | [v5.3.0](https://github.com/zoriya/Kyoo/releases/tag/v5.3.0) signed | 2561 | Plex (full), Netflix (partial) |
+| [Universal Media Server](https://github.com/UniversalMediaServer/UniversalMediaServer) | Java | GPL-2.0 | [15.8.2](https://github.com/UniversalMediaServer/UniversalMediaServer/releases/tag/15.8.2) | 2669 | Netflix (partial), Emby (partial) |
+| [gonic](https://github.com/sentriz/gonic) | Go | GPL-3.0 | [v0.23.0](https://github.com/sentriz/gonic/releases/tag/v0.23.0) signed | 2646 | Spotify (partial) |
+| [OwnTone](https://github.com/owntone/owntone-server) | C | GPL-2.0 | [29.3](https://github.com/owntone/owntone-server/releases/tag/29.3) | 2583 | none |
+| [Kyoo](https://github.com/zoriya/Kyoo) | TypeScript | GPL-3.0 | [v5.3.0](https://github.com/zoriya/Kyoo/releases/tag/v5.3.0) signed | 2560 | Plex (full), Netflix (partial) |
 | [mStream](https://github.com/IrosTheBeggar/mStream) | JavaScript | GPL-3.0 | [v6.32.3](https://github.com/IrosTheBeggar/mStream/releases/tag/v6.32.3) | 2427 | Spotify (partial) |
 | [Swing Music](https://github.com/swingmx/swingmusic) | Python | AGPL-3.0 | [v3.0.0](https://github.com/swingmx/swingmusic/releases/tag/v3.0.0) | 2088 | Spotify (partial) |
 | [Lyrion Music Server](https://github.com/LMS-Community/slimserver) | Perl | Other | [9.1.1](https://github.com/LMS-Community/slimserver/releases/tag/9.1.1) | 1814 | Spotify (partial) |

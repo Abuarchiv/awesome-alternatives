@@ -4,9 +4,9 @@ Browsers for the desktop, built on an open source engine.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Zen Browser](https://github.com/zen-browser/desktop) | C++ | MPL-2.0 | [1.24b](https://github.com/zen-browser/desktop/releases/tag/1.24b) signed | 45532 | Firefox (partial) |
-| [Chromium](https://github.com/chromium/chromium) | unknown | BSD-3-Clause | [159.0.8140.0](https://github.com/chromium/chromium/releases/tag/159.0.8140.0) | 25225 | Google Chrome (full) |
-| [Brave](https://github.com/brave/brave-browser) | unknown | MPL-2.0 | [v1.98.63](https://github.com/brave/brave-browser/releases/tag/v1.98.63) signed | 24081 | Google Chrome (full) |
-| [Firefox](https://github.com/mozilla-firefox/firefox) | JavaScript | Other | [FIREFOX_160_0b4_BUILD1](https://github.com/mozilla-firefox/firefox/releases/tag/FIREFOX_160_0b4_BUILD1) | 13705 | Google Chrome (full) |
+| [Zen Browser](https://github.com/zen-browser/desktop) | C++ | MPL-2.0 | [1.24b](https://github.com/zen-browser/desktop/releases/tag/1.24b) signed | 45543 | Firefox (partial) |
+| [Chromium](https://github.com/chromium/chromium) | unknown | BSD-3-Clause | [159.0.8141.1](https://github.com/chromium/chromium/releases/tag/159.0.8141.1) | 25231 | Google Chrome (full) |
+| [Brave](https://github.com/brave/brave-browser) | unknown | MPL-2.0 | [v1.98.63](https://github.com/brave/brave-browser/releases/tag/v1.98.63) signed | 24088 | Google Chrome (full) |
+| [Firefox](https://github.com/mozilla-firefox/firefox) | JavaScript | Other | [FIREFOX_160_0b4_BUILD1](https://github.com/mozilla-firefox/firefox/releases/tag/FIREFOX_160_0b4_BUILD1) | 13709 | Google Chrome (full) |
 
 [All categories](../README.md#catalog)

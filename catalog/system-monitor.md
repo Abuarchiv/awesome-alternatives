@@ -4,10 +4,10 @@ Watch processes and resource use from a terminal.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [btop](https://github.com/aristocratos/btop) | C++ | Apache-2.0 | [v1.4.8](https://github.com/aristocratos/btop/releases/tag/v1.4.8) | 35231 | htop (full) |
+| [btop](https://github.com/aristocratos/btop) | C++ | Apache-2.0 | [v1.4.8](https://github.com/aristocratos/btop/releases/tag/v1.4.8) | 35236 | htop (full) |
 | [Glances](https://github.com/nicolargo/glances) | Python | Other | [v4.5.8](https://github.com/nicolargo/glances/releases/tag/v4.5.8) | 33893 | htop (full) |
-| [bottom](https://github.com/ClementTsang/bottom) | Rust | MIT | [0.15.0](https://github.com/ClementTsang/bottom/releases/tag/0.15.0) signed | 14151 | htop (full) |
-| [bandwhich](https://github.com/imsnif/bandwhich) | Rust | MIT | [v0.23.1](https://github.com/imsnif/bandwhich/releases/tag/v0.23.1) signed | 12045 | GlassWire (partial) |
+| [bottom](https://github.com/ClementTsang/bottom) | Rust | MIT | [0.15.0](https://github.com/ClementTsang/bottom/releases/tag/0.15.0) signed | 14152 | htop (full) |
+| [bandwhich](https://github.com/imsnif/bandwhich) | Rust | MIT | [v0.23.1](https://github.com/imsnif/bandwhich/releases/tag/v0.23.1) signed | 12044 | GlassWire (partial) |
 | [nvtop](https://github.com/Syllo/nvtop) | C | Other | [3.3.2](https://github.com/Syllo/nvtop/releases/tag/3.3.2) | 11121 | none |
 | [htop](https://github.com/htop-dev/htop) | C | GPL-2.0 | [3.5.3](https://github.com/htop-dev/htop/releases/tag/3.5.3) | 8439 | none |
 | [procs](https://github.com/dalance/procs) | Rust | MIT | [v0.14.12](https://github.com/dalance/procs/releases/tag/v0.14.12) | 6216 | htop (partial) |

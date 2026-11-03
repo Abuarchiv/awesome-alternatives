@@ -5,11 +5,11 @@ Documents, spreadsheets and presentations.
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
 | [Etherpad](https://github.com/ether/etherpad) | TypeScript | Apache-2.0 | [v3.3.13](https://github.com/ether/etherpad/releases/tag/v3.3.13) | 18617 | Google Docs (partial) |
-| [CryptPad](https://github.com/cryptpad/cryptpad) | JavaScript | AGPL-3.0 | [2026.10.0](https://github.com/cryptpad/cryptpad/releases/tag/2026.10.0) signed | 8039 | Google Docs (full), HackMD (partial) |
-| [ONLYOFFICE Docs](https://github.com/ONLYOFFICE/DocumentServer) | Shell | AGPL-3.0 | [v10.0.0](https://github.com/ONLYOFFICE/DocumentServer/releases/tag/v10.0.0) | 7080 | Microsoft 365 (partial), Google Docs (full) |
-| [ONLYOFFICE Desktop Editors](https://github.com/ONLYOFFICE/DesktopEditors) | unknown | AGPL-3.0 | [v10.0.0](https://github.com/ONLYOFFICE/DesktopEditors/releases/tag/v10.0.0) | 5688 | Microsoft 365 (partial) |
+| [CryptPad](https://github.com/cryptpad/cryptpad) | JavaScript | AGPL-3.0 | [2026.10.0](https://github.com/cryptpad/cryptpad/releases/tag/2026.10.0) signed | 8041 | Google Docs (full), HackMD (partial) |
+| [ONLYOFFICE Docs](https://github.com/ONLYOFFICE/DocumentServer) | Shell | AGPL-3.0 | [v10.0.0](https://github.com/ONLYOFFICE/DocumentServer/releases/tag/v10.0.0) | 7083 | Microsoft 365 (partial), Google Docs (full) |
+| [ONLYOFFICE Desktop Editors](https://github.com/ONLYOFFICE/DesktopEditors) | unknown | AGPL-3.0 | [v10.0.0](https://github.com/ONLYOFFICE/DesktopEditors/releases/tag/v10.0.0) | 5689 | Microsoft 365 (partial) |
 | [LibreOffice](https://github.com/LibreOffice/core) | C++ | GPL-3.0 | [libreoffice-26.8.2.2](https://github.com/LibreOffice/core/releases/tag/libreoffice-26.8.2.2) | 4591 | Microsoft 365 (partial), Google Docs (partial) |
 | [Collabora Online](https://github.com/CollaboraOnline/online) | Shell | Other | [25.04.7-mobile](https://github.com/CollaboraOnline/online/releases/tag/25.04.7-mobile) signed | 3389 | Google Docs (full), Microsoft 365 (partial) |
-| [EtherCalc](https://github.com/audreyt/ethercalc) | TypeScript | Other | [0.20261101.3](https://github.com/audreyt/ethercalc/releases/tag/0.20261101.3) | 3061 | Google Docs (partial) |
+| [EtherCalc](https://github.com/audreyt/ethercalc) | TypeScript | Other | [0.20261101.3](https://github.com/audreyt/ethercalc/releases/tag/0.20261101.3) | 3062 | Google Docs (partial) |
 
 [All categories](../README.md#catalog)
