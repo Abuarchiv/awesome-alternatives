@@ -4,11 +4,11 @@ Build and test SQL and Python models inside a warehouse, and define metrics and 
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Cube](https://github.com/cube-js/cube) | Rust | Other | [v1.8.16](https://github.com/cube-js/cube/releases/tag/v1.8.16) | 21143 | Looker (partial) |
-| [dbt](https://github.com/dbt-labs/dbt) | Rust | Apache-2.0 | [v1.12.6](https://github.com/dbt-labs/dbt/releases/tag/v1.12.6) | 14108 | dbt Cloud (partial) |
-| [SQLMesh](https://github.com/SQLMesh/sqlmesh) | Python | Apache-2.0 | [v0.236.4](https://github.com/SQLMesh/sqlmesh/releases/tag/v0.236.4) signed | 3342 | dbt (partial), dbt Cloud (full) |
-| [MetricFlow](https://github.com/dbt-labs/metricflow) | Python | Apache-2.0 | [v0.213.0](https://github.com/dbt-labs/metricflow/releases/tag/v0.213.0) signed | 1855 | Cube (full), Looker (partial) |
-| [Bruin](https://github.com/bruin-data/bruin) | Go | Apache-2.0 | [v0.11.803](https://github.com/bruin-data/bruin/releases/tag/v0.11.803) signed | 1798 | dbt (partial) |
-| [Dataform](https://github.com/dataform-co/dataform) | TypeScript | Apache-2.0 | [3.1.2](https://github.com/dataform-co/dataform/releases/tag/3.1.2) signed | 999 | dbt (partial), dbt Cloud (partial) |
+| [Cube](https://github.com/cube-js/cube) | Rust | Other | [v1.8.17](https://github.com/cube-js/cube/releases/tag/v1.8.17) | 21150 | Looker (partial) |
+| [dbt](https://github.com/dbt-labs/dbt) | Rust | Apache-2.0 | [v1.12.6](https://github.com/dbt-labs/dbt/releases/tag/v1.12.6) | 14110 | dbt Cloud (partial) |
+| [SQLMesh](https://github.com/SQLMesh/sqlmesh) | Python | Apache-2.0 | [v0.236.4](https://github.com/SQLMesh/sqlmesh/releases/tag/v0.236.4) signed | 3345 | dbt (partial), dbt Cloud (full) |
+| [MetricFlow](https://github.com/dbt-labs/metricflow) | Python | Apache-2.0 | [v0.213.0](https://github.com/dbt-labs/metricflow/releases/tag/v0.213.0) signed | 1857 | Cube (full), Looker (partial) |
+| [Bruin](https://github.com/bruin-data/bruin) | Go | Apache-2.0 | [v0.11.804](https://github.com/bruin-data/bruin/releases/tag/v0.11.804) signed | 1799 | dbt (partial) |
+| [Dataform](https://github.com/dataform-co/dataform) | TypeScript | Apache-2.0 | [3.1.3](https://github.com/dataform-co/dataform/releases/tag/3.1.3) signed | 999 | dbt (partial), dbt Cloud (partial) |
 
 [All categories](../README.md#catalog)

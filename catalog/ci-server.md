@@ -4,14 +4,14 @@ Self-hosted servers that run build and deployment pipelines.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [act](https://github.com/nektos/act) | Go | MIT | [v0.2.94](https://github.com/nektos/act/releases/tag/v0.2.94) | 72514 | none |
-| [Jenkins](https://github.com/jenkinsci/jenkins) | Java | MIT | [jenkins-2.580.2](https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.580.2) | 26715 | CircleCI (full) |
-| [Dagger](https://github.com/dagger/dagger) | Go | Apache-2.0 | [v0.21.11](https://github.com/dagger/dagger/releases/tag/v0.21.11) signed | 16569 | none |
-| [Tekton](https://github.com/tektoncd/pipeline) | Go | Apache-2.0 | [v1.18.0](https://github.com/tektoncd/pipeline/releases/tag/v1.18.0) | 9093 | Jenkins (partial) |
-| [Woodpecker CI](https://github.com/woodpecker-ci/woodpecker) | Go | Apache-2.0 | [v3.20.1](https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.20.1) signed | 8094 | Jenkins (full), CircleCI (full) |
+| [act](https://github.com/nektos/act) | Go | MIT | [v0.2.95](https://github.com/nektos/act/releases/tag/v0.2.95) | 72522 | none |
+| [Jenkins](https://github.com/jenkinsci/jenkins) | Java | MIT | [jenkins-2.580.2](https://github.com/jenkinsci/jenkins/releases/tag/jenkins-2.580.2) | 26719 | CircleCI (full) |
+| [Dagger](https://github.com/dagger/dagger) | Go | Apache-2.0 | [v0.21.11](https://github.com/dagger/dagger/releases/tag/v0.21.11) signed | 16573 | none |
+| [Tekton](https://github.com/tektoncd/pipeline) | Go | Apache-2.0 | [v1.18.0](https://github.com/tektoncd/pipeline/releases/tag/v1.18.0) | 9092 | Jenkins (partial) |
+| [Woodpecker CI](https://github.com/woodpecker-ci/woodpecker) | Go | Apache-2.0 | [v3.20.1](https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.20.1) signed | 8098 | Jenkins (full), CircleCI (full) |
 | [Concourse](https://github.com/concourse/concourse) | Go | Apache-2.0 | [v8.3.2](https://github.com/concourse/concourse/releases/tag/v8.3.2) signed | 7938 | Jenkins (full), CircleCI (full) |
 | [GoCD](https://github.com/gocd/gocd) | Java | Apache-2.0 | [26.1.0](https://github.com/gocd/gocd/releases/tag/26.1.0) signed | 7436 | Jenkins (full), CircleCI (full), Octopus Deploy (partial) |
-| [Actions Runner Controller](https://github.com/actions/actions-runner-controller) | Go | Apache-2.0 | [gha-runner-scale-set-0.15.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.15.1) signed | 6626 | none |
+| [Actions Runner Controller](https://github.com/actions/actions-runner-controller) | Go | Apache-2.0 | [gha-runner-scale-set-0.15.1](https://github.com/actions/actions-runner-controller/releases/tag/gha-runner-scale-set-0.15.1) signed | 6628 | none |
 | [Buildbot](https://github.com/buildbot/buildbot) | Python | GPL-2.0 | [v4.3.0](https://github.com/buildbot/buildbot/releases/tag/v4.3.0) signed | 5490 | Jenkins (full) |
 | [Jenkins X](https://github.com/jenkins-x/jx) | Go | Apache-2.0 | [v3.17.120](https://github.com/jenkins-x/jx/releases/tag/v3.17.120) | 4691 | CircleCI (partial) |
 

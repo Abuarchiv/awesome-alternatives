@@ -4,13 +4,13 @@ Install and run the checks a repository wants before a commit or a push, and che
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [husky](https://github.com/typicode/husky) | JavaScript | MIT | [v9.1.7](https://github.com/typicode/husky/releases/tag/v9.1.7) | 35376 | pre-commit (partial) |
-| [commitlint](https://github.com/conventional-changelog/commitlint) | TypeScript | MIT | [v21.2.4](https://github.com/conventional-changelog/commitlint/releases/tag/v21.2.4) | 18797 | none |
-| [pre-commit](https://github.com/pre-commit/pre-commit) | Python | MIT | [v4.7.0](https://github.com/pre-commit/pre-commit/releases/tag/v4.7.0) | 15677 | husky (partial) |
-| [lefthook](https://github.com/evilmartians/lefthook) | Go | MIT | [v2.2.2](https://github.com/evilmartians/lefthook/releases/tag/v2.2.2) signed | 8971 | husky (full), pre-commit (full) |
-| [prek](https://github.com/j178/prek) | Rust | MIT | [v0.5.9](https://github.com/j178/prek/releases/tag/v0.5.9) signed | 8717 | pre-commit (drop-in) |
+| [husky](https://github.com/typicode/husky) | JavaScript | MIT | [v9.1.7](https://github.com/typicode/husky/releases/tag/v9.1.7) | 35378 | pre-commit (partial) |
+| [commitlint](https://github.com/conventional-changelog/commitlint) | TypeScript | MIT | [v21.2.4](https://github.com/conventional-changelog/commitlint/releases/tag/v21.2.4) | 18798 | none |
+| [pre-commit](https://github.com/pre-commit/pre-commit) | Python | MIT | [v4.7.0](https://github.com/pre-commit/pre-commit/releases/tag/v4.7.0) | 15678 | husky (partial) |
+| [lefthook](https://github.com/evilmartians/lefthook) | Go | MIT | [v2.2.2](https://github.com/evilmartians/lefthook/releases/tag/v2.2.2) signed | 8982 | husky (full), pre-commit (full) |
+| [prek](https://github.com/j178/prek) | Rust | MIT | [v0.5.9](https://github.com/j178/prek/releases/tag/v0.5.9) signed | 8720 | pre-commit (drop-in) |
 | [Overcommit](https://github.com/sds/overcommit) | Ruby | MIT | [v0.74.0](https://github.com/sds/overcommit/releases/tag/v0.74.0) signed | 4004 | pre-commit (partial) |
 | [simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) | JavaScript | MIT | [2.14.0](https://github.com/toplenboren/simple-git-hooks/releases/tag/2.14.0) | 1689 | husky (partial) |
-| [cz-git](https://github.com/Zhengqbbb/cz-git) | TypeScript | MIT | [v1.14.0](https://github.com/Zhengqbbb/cz-git/releases/tag/v1.14.0) | 1532 | Commitizen (full) |
+| [cz-git](https://github.com/Zhengqbbb/cz-git) | TypeScript | MIT | [v1.14.0](https://github.com/Zhengqbbb/cz-git/releases/tag/v1.14.0) | 1533 | Commitizen (full) |
 
 [All categories](../README.md#catalog)

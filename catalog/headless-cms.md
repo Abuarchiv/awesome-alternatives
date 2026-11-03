@@ -4,20 +4,20 @@ Manage content in an admin UI and deliver it to any front end through an API.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Strapi](https://github.com/strapi/strapi) | TypeScript | Other | [v5.60.0](https://github.com/strapi/strapi/releases/tag/v5.60.0) | 73422 | Contentful (full) |
-| [Payload](https://github.com/payloadcms/payload) | TypeScript | MIT | [v3.92.1](https://github.com/payloadcms/payload/releases/tag/v3.92.1) | 45613 | Contentful (full), Strapi (full) |
-| [Directus](https://github.com/directus/directus) | TypeScript | Other | [v12.6.0](https://github.com/directus/directus/releases/tag/v12.6.0) signed | 38782 | Contentful (full) |
-| [Wagtail](https://github.com/wagtail/wagtail) | Python | BSD-3-Clause | [v8.0.1](https://github.com/wagtail/wagtail/releases/tag/v8.0.1) | 20600 | Contentful (partial) |
-| [Decap CMS](https://github.com/decaporg/decap-cms) | JavaScript | MIT | [decap-cms@3.17.3](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.17.3) | 19461 | Contentful (partial) |
-| [TinaCMS](https://github.com/tinacms/tinacms) | TypeScript | Apache-2.0 | [tinacms@3.15.1](https://github.com/tinacms/tinacms/releases/tag/tinacms%403.15.1) signed | 13860 | Contentful (partial) |
-| [Keystone](https://github.com/keystonejs/keystone) | TypeScript | MIT | [2026-10-27](https://github.com/keystonejs/keystone/releases/tag/2026-10-27) signed | 9986 | Contentful (full) |
-| [Webiny](https://github.com/webiny/webiny-js) | TypeScript | Other | [v6.5.1](https://github.com/webiny/webiny-js/releases/tag/v6.5.1) | 8051 | Contentful (full) |
-| [ApostropheCMS](https://github.com/apostrophecms/apostrophe) | JavaScript | none | [@apostrophecms/apostrophe-stable@4.32.1](https://github.com/apostrophecms/apostrophe/releases/tag/%40apostrophecms/apostrophe-stable%404.32.1) | 4654 | Contentful (partial) |
-| [Pages CMS](https://github.com/hunvreus/pagescms) | TypeScript | MIT | [2.1.8](https://github.com/hunvreus/pagescms/releases/tag/2.1.8) | 4164 | Decap CMS (full) |
-| [Outstatic](https://github.com/avitorio/outstatic) | TypeScript | Other | [v2.2.4](https://github.com/avitorio/outstatic/releases/tag/v2.2.4) | 3170 | Decap CMS (partial) |
-| [Sveltia CMS](https://github.com/sveltia/sveltia-cms) | JavaScript | MIT | [v0.256.1](https://github.com/sveltia/sveltia-cms/releases/tag/v0.256.1) | 3028 | Decap CMS (drop-in) |
+| [Strapi](https://github.com/strapi/strapi) | TypeScript | Other | [v5.60.0](https://github.com/strapi/strapi/releases/tag/v5.60.0) | 73423 | Contentful (full) |
+| [Payload](https://github.com/payloadcms/payload) | TypeScript | MIT | [v3.92.1](https://github.com/payloadcms/payload/releases/tag/v3.92.1) | 45634 | Contentful (full), Strapi (full) |
+| [Directus](https://github.com/directus/directus) | TypeScript | Other | [v12.6.0](https://github.com/directus/directus/releases/tag/v12.6.0) signed | 38801 | Contentful (full) |
+| [Wagtail](https://github.com/wagtail/wagtail) | Python | BSD-3-Clause | [v8.1](https://github.com/wagtail/wagtail/releases/tag/v8.1) | 20600 | Contentful (partial) |
+| [Decap CMS](https://github.com/decaporg/decap-cms) | JavaScript | MIT | [decap-cms@3.17.3](https://github.com/decaporg/decap-cms/releases/tag/decap-cms%403.17.3) | 19460 | Contentful (partial) |
+| [TinaCMS](https://github.com/tinacms/tinacms) | TypeScript | Apache-2.0 | [tinacms@3.15.1](https://github.com/tinacms/tinacms/releases/tag/tinacms%403.15.1) signed | 13862 | Contentful (partial) |
+| [Keystone](https://github.com/keystonejs/keystone) | TypeScript | MIT | [2026-11-03](https://github.com/keystonejs/keystone/releases/tag/2026-11-03) signed | 9986 | Contentful (full) |
+| [Webiny](https://github.com/webiny/webiny-js) | TypeScript | Other | [v6.5.1](https://github.com/webiny/webiny-js/releases/tag/v6.5.1) | 8050 | Contentful (full) |
+| [ApostropheCMS](https://github.com/apostrophecms/apostrophe) | JavaScript | none | [@apostrophecms/apostrophe-stable@4.32.1](https://github.com/apostrophecms/apostrophe/releases/tag/%40apostrophecms/apostrophe-stable%404.32.1) | 4658 | Contentful (partial) |
+| [Pages CMS](https://github.com/hunvreus/pagescms) | TypeScript | MIT | [2.1.8](https://github.com/hunvreus/pagescms/releases/tag/2.1.8) | 4172 | Decap CMS (full) |
+| [Outstatic](https://github.com/avitorio/outstatic) | TypeScript | Other | [v2.2.4](https://github.com/avitorio/outstatic/releases/tag/v2.2.4) | 3169 | Decap CMS (partial) |
+| [Sveltia CMS](https://github.com/sveltia/sveltia-cms) | JavaScript | MIT | [v0.257.0](https://github.com/sveltia/sveltia-cms/releases/tag/v0.257.0) | 3032 | Decap CMS (drop-in) |
 | [Squidex](https://github.com/Squidex/squidex) | C# | MIT | [7.24.0](https://github.com/Squidex/squidex/releases/tag/7.24.0) | 2515 | Contentful (full) |
-| [Keystatic](https://github.com/Thinkmill/keystatic) | TypeScript | MIT | [@keystatic/next@5.0.5](https://github.com/Thinkmill/keystatic/releases/tag/%40keystatic/next%405.0.5) | 2494 | Decap CMS (full) |
+| [Keystatic](https://github.com/Thinkmill/keystatic) | TypeScript | MIT | [@keystatic/next@5.0.5](https://github.com/Thinkmill/keystatic/releases/tag/%40keystatic/next%405.0.5) | 2495 | Decap CMS (full) |
 | [Cockpit](https://github.com/Cockpit-HQ/Cockpit) | PHP | Other | [2.14.1](https://github.com/Cockpit-HQ/Cockpit/releases/tag/2.14.1) | 758 | Contentful (partial) |
 
 [All categories](../README.md#catalog)
