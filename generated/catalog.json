@@ -1,9 +1,9 @@
 {
   "stats": {
-    "tools": 2753,
+    "tools": 2754,
     "categories": 344,
     "targets": 923,
-    "verified": 3
+    "verified": 4
   },
   "checkedAt": "2026-11-03T05:17:19.716Z",
   "owners": {
@@ -19662,6 +19662,14 @@
       "bio": "Ship Confidently",
       "website": "https://vostride.com",
       "url": "https://github.com/vostride"
+    },
+    "loootai": {
+      "login": "loootai",
+      "kind": "organization",
+      "name": "looot",
+      "bio": "the last toool you need to connect with your agent",
+      "website": "https://looot.ai",
+      "url": "https://github.com/loootai"
     }
   },
   "tools": [
@@ -171724,6 +171732,114 @@
       "deploy": [
         "helm"
       ]
+    },
+    {
+      "slug": "looot-seo",
+      "name": "looot-seo",
+      "repository": "https://github.com/loootai/looot-seo",
+      "category": "seo",
+      "replaces": [
+        {
+          "tool": "semrush",
+          "fit": "partial",
+          "note": "Rank tracking, keyword research, SERP snapshots, competitors and backlinks in a self-hosted Next.js app. Live data needs a paid looot API key, and each refresh shows its price first."
+        }
+      ],
+      "affiliation": null,
+      "path": null,
+      "addedAt": "2026-11-03T17:09:00.000Z",
+      "editedAt": "2026-11-03T17:09:00.000Z",
+      "factsChangedAt": null,
+      "repo": {
+        "fullName": "loootai/looot-seo",
+        "description": "Self-hosted SEO workspace: rank tracking, keyword research, SERP snapshots, competitors and backlinks, with the price of every refresh shown before it runs. Next.js, Supabase and looot.",
+        "homepage": "https://looot.ai",
+        "language": "TypeScript",
+        "license": "MIT",
+        "stars": 0,
+        "forks": 0,
+        "topics": [
+          "gtm",
+          "keyword-research",
+          "looot",
+          "nextjs",
+          "open-source",
+          "rank-tracker",
+          "self-hosted",
+          "seo",
+          "serp",
+          "supabase"
+        ],
+        "databaseId": 1411267337,
+        "archived": false,
+        "fork": false,
+        "private": false,
+        "createdAt": "2026-10-09T04:12:18Z",
+        "pushedAt": "2026-10-31T20:09:49Z",
+        "defaultBranch": "main"
+      },
+      "trend": null,
+      "starHistory": {
+        "from": "2026-11-03",
+        "stars": [0]
+      },
+      "release": {
+        "tag": "v0.1.4",
+        "publishedAt": "2026-10-11T14:04:02Z",
+        "url": "https://github.com/loootai/looot-seo/releases/tag/v0.1.4",
+        "source": "release",
+        "signed": false
+      },
+      "releases": [
+        {
+          "tag": "v0.1.4",
+          "name": "Spend limit across runs. Each user gets a daily and monthly budget (default $5 and $50). A run's cap is reserved atomic…",
+          "publishedAt": "2026-10-11T14:04:02Z",
+          "url": "https://github.com/loootai/looot-seo/releases/tag/v0.1.4",
+          "prerelease": false
+        },
+        {
+          "tag": "v0.1.3",
+          "name": "Security release. Earlier versions (up to v0.1.2) let any signed-in Supabase user use the workspace: read projects, cha…",
+          "publishedAt": "2026-10-11T11:24:27Z",
+          "url": "https://github.com/loootai/looot-seo/releases/tag/v0.1.3",
+          "prerelease": false
+        },
+        {
+          "tag": "v0.1.2",
+          "name": "Sidebar layout: left sidebar that collapses to an icon rail, drawer on phones, spend panel, docs and GitHub links.",
+          "publishedAt": "2026-10-10T19:22:34Z",
+          "url": "https://github.com/loootai/looot-seo/releases/tag/v0.1.2",
+          "prerelease": false
+        },
+        {
+          "tag": "v0.1.1",
+          "name": "Dependency security bump. next and eslint-config-next 16.3.7 to 16.3.8, which fixes six Next.js advisories (GHSA-3w37-w…",
+          "publishedAt": "2026-10-10T12:03:10Z",
+          "url": "https://github.com/loootai/looot-seo/releases/tag/v0.1.1",
+          "prerelease": false
+        },
+        {
+          "tag": "v0.1.0",
+          "name": "looot-seo 0.1.0",
+          "publishedAt": "2026-10-09T04:12:42Z",
+          "url": "https://github.com/loootai/looot-seo/releases/tag/v0.1.0",
+          "prerelease": false
+        }
+      ],
+      "contributors": {
+        "count": 1,
+        "capped": false
+      },
+      "platforms": [],
+      "maintainerVerified": true,
+      "verifiedAt": "2026-10-31T20:09:46.000Z",
+      "flags": [
+        "too-new"
+      ],
+      "terms": "open",
+      "capabilities": {},
+      "deploy": []
     },
     {
       "slug": "loop-habit-tracker",

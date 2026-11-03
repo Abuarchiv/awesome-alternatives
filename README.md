@@ -274,7 +274,7 @@ in Rust"), is on [awesome-alternatives.com](https://awesome-alternatives.com).
 | [Billing](catalog/billing.md) | 5 | Usage-based billing, subscription management and invoicing. |
 | [Payment processing](catalog/payments.md) | 4 | Accept and route online payments from servers you run. |
 | [Webhook delivery](catalog/webhooks.md) | 4 | Send and receive webhooks with retries, signatures and delivery logs. |
-| [SEO tools](catalog/seo.md) | 4 | Track search rankings and audit sites for technical SEO issues. |
+| [SEO tools](catalog/seo.md) | 5 | Track search rankings and audit sites for technical SEO issues. |
 | [Cookie consent](catalog/consent-management.md) | 3 | Show a consent banner and hold back tracking scripts until visitors agree. |
 | [Event ticketing](catalog/event-ticketing.md) | 4 | Sell tickets, manage attendees and check people in at events. |
 | [Image processing servers](catalog/image-proxy.md) | 3 | Resize, crop and convert images on the fly from URL parameters. |
