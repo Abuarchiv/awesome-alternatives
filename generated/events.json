@@ -7425,5 +7425,6 @@
   {"type":"released","slug":"wildduck","at":"2026-11-03T05:17:19.716Z","commit":null,"from":"v1.55.2","to":"v1.55.3"},
   {"type":"released","slug":"windmill","at":"2026-11-03T05:17:19.716Z","commit":null,"from":"v1.855.1","to":"v1.857.0"},
   {"type":"released","slug":"x-anylabeling","at":"2026-11-03T05:17:19.716Z","commit":null,"from":"v4.3.0","to":"v4.3.1"},
-  {"type":"released","slug":"stashden","at":"2026-11-03T15:16:08.992Z","commit":null,"from":"v0.53.3","to":"v0.53.4"}
+  {"type":"released","slug":"stashden","at":"2026-11-03T15:16:08.992Z","commit":null,"from":"v0.53.3","to":"v0.53.4"},
+  {"type":"added","slug":"agent-qa","at":"2026-11-03T17:09:47.743Z","commit":null}
 ]

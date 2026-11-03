@@ -136,7 +136,7 @@ in Rust"), is on [awesome-alternatives.com](https://awesome-alternatives.com).
 | [Git diff pagers](catalog/git-diff-pager.md) | 6 | Make git diff output readable in a terminal. |
 | [JSON processors](catalog/json-processor.md) | 9 | Query and transform JSON from the command line. |
 | [Load testing](catalog/load-testing.md) | 14 | Generate traffic to measure how a service holds up. |
-| [Browser automation and testing](catalog/browser-testing.md) | 8 | Drive real browsers for end-to-end tests. |
+| [Browser automation and testing](catalog/browser-testing.md) | 9 | Drive real browsers for end-to-end tests. |
 | [Python web frameworks](catalog/python-web-framework.md) | 11 | Build HTTP APIs and sites in Python. |
 | [Python HTTP clients](catalog/python-http-client.md) | 5 | Send HTTP requests from Python. |
 | [JavaScript date libraries](catalog/javascript-date-library.md) | 5 | Parse, format and compute dates in JavaScript. |

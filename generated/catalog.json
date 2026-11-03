@@ -1,8 +1,8 @@
 {
   "stats": {
-    "tools": 2752,
+    "tools": 2753,
     "categories": 344,
-    "targets": 922,
+    "targets": 923,
     "verified": 3
   },
   "checkedAt": "2026-11-03T05:17:19.716Z",
@@ -19654,6 +19654,14 @@
       "bio": "A Musical Software Synthesizer",
       "website": "http://zynaddsubfx.sf.net",
       "url": "https://github.com/zynaddsubfx"
+    },
+    "vostride": {
+      "login": "vostride",
+      "kind": "organization",
+      "name": null,
+      "bio": "Ship Confidently",
+      "website": "https://vostride.com",
+      "url": "https://github.com/vostride"
     }
   },
   "tools": [
@@ -23078,6 +23086,123 @@
       "verifiedAt": null,
       "flags": [],
       "terms": "open",
+      "capabilities": {},
+      "deploy": []
+    },
+    {
+      "slug": "agent-qa",
+      "name": "agent-qa",
+      "repository": "https://github.com/vostride/agent-qa",
+      "category": "browser-testing",
+      "replaces": [
+        {
+          "tool": "playwright",
+          "fit": "partial",
+          "note": "Playwright-backed natural-language web QA with memidex memory and evidence-gated self-improvement; requires its own YAML tests and model setup."
+        }
+      ],
+      "affiliation": null,
+      "path": null,
+      "addedAt": "2026-11-03T17:08:28.000Z",
+      "editedAt": "2026-11-03T17:08:28.000Z",
+      "factsChangedAt": null,
+      "repo": {
+        "fullName": "vostride/agent-qa",
+        "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+        "homepage": "https://vostride.com",
+        "language": "TypeScript",
+        "license": "Other",
+        "stars": 921,
+        "forks": 24,
+        "topics": [
+          "ai-agents",
+          "ai-testing",
+          "anthropic",
+          "autonomous-agents",
+          "browser-automation",
+          "chatgpt",
+          "claude-code",
+          "clawdbot",
+          "codex",
+          "developer-tools",
+          "dsh-plugin",
+          "end-to-end-testing",
+          "fair-source",
+          "frontend",
+          "mcp",
+          "mcp-server",
+          "mcp-tools",
+          "model-context-protocol",
+          "openai",
+          "playwright"
+        ],
+        "databaseId": 1232322871,
+        "archived": false,
+        "fork": false,
+        "private": false,
+        "createdAt": "2026-05-07T20:17:57Z",
+        "pushedAt": "2026-11-03T07:54:59Z",
+        "defaultBranch": "main"
+      },
+      "trend": null,
+      "starHistory": {
+        "from": "2026-11-03",
+        "stars": [921]
+      },
+      "release": {
+        "tag": "v0.2.6",
+        "publishedAt": "2026-11-03T08:00:53Z",
+        "url": "https://github.com/vostride/agent-qa/releases/tag/v0.2.6",
+        "source": "release",
+        "signed": false,
+        "tagOid": "cf46d2dd1fb1c3f497c2c9b3336cef5f98252347"
+      },
+      "releases": [
+        {
+          "tag": "v0.2.6",
+          "name": "agent-qa v0.2.6",
+          "publishedAt": "2026-11-03T08:00:53Z",
+          "url": "https://github.com/vostride/agent-qa/releases/tag/v0.2.6",
+          "prerelease": false
+        },
+        {
+          "tag": "v0.2.5",
+          "name": "agent-qa v0.2.5",
+          "publishedAt": "2026-11-01T06:31:57Z",
+          "url": "https://github.com/vostride/agent-qa/releases/tag/v0.2.5",
+          "prerelease": false
+        },
+        {
+          "tag": "v0.2.4",
+          "name": "agent-qa v0.2.4",
+          "publishedAt": "2026-10-31T10:42:35Z",
+          "url": "https://github.com/vostride/agent-qa/releases/tag/v0.2.4",
+          "prerelease": false
+        },
+        {
+          "tag": "v0.2.3",
+          "name": "agent-qa v0.2.3",
+          "publishedAt": "2026-10-24T19:11:48Z",
+          "url": "https://github.com/vostride/agent-qa/releases/tag/v0.2.3",
+          "prerelease": false
+        },
+        {
+          "tag": "v0.2.2",
+          "name": "agent-qa v0.2.2",
+          "publishedAt": "2026-10-24T17:43:33Z",
+          "url": "https://github.com/vostride/agent-qa/releases/tag/v0.2.2",
+          "prerelease": false
+        }
+      ],
+      "contributors": {
+        "count": 1,
+        "capped": true
+      },
+      "platforms": [],
+      "maintainerVerified": false,
+      "verifiedAt": null,
+      "flags": [],
+      "terms": "source-available",
       "capabilities": {},
       "deploy": []
     },

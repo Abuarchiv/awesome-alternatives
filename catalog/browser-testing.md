@@ -12,5 +12,6 @@ Drive real browsers for end-to-end tests.
 | [Nightwatch](https://github.com/nightwatchjs/nightwatch) | JavaScript | MIT | [v3.16.0](https://github.com/nightwatchjs/nightwatch/releases/tag/v3.16.0) | 11955 | Cypress (full) |
 | [TestCafe](https://github.com/DevExpress/testcafe) | JavaScript | MIT | [v3.7.7](https://github.com/DevExpress/testcafe/releases/tag/v3.7.7) signed | 9894 | Selenium (partial) |
 | [WebdriverIO](https://github.com/webdriverio/webdriverio) | TypeScript | MIT | [v10.1.1](https://github.com/webdriverio/webdriverio/releases/tag/v10.1.1) | 9869 | Selenium (full) |
+| [agent-qa](https://github.com/vostride/agent-qa) | TypeScript | Other | [v0.2.6](https://github.com/vostride/agent-qa/releases/tag/v0.2.6) | 921 | Playwright (partial) |
 
 [All categories](../README.md#catalog)
