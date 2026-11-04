@@ -8,7 +8,7 @@ Build, deploy and debug code against a Kubernetes cluster from a developer machi
 | [Tilt](https://github.com/tilt-dev/tilt) | Go | Apache-2.0 | [v0.37.8](https://github.com/tilt-dev/tilt/releases/tag/v0.37.8) signed | 10118 | Skaffold (full) |
 | [Telepresence](https://github.com/telepresenceio/telepresence) | Go | Apache-2.0 | [v2.32.3](https://github.com/telepresenceio/telepresence/releases/tag/v2.32.3) | 7326 | mirrord (partial) |
 | [mirrord](https://github.com/metalbear-co/mirrord) | Rust | MIT | [3.284.0](https://github.com/metalbear-co/mirrord/releases/tag/3.284.0) | 5401 | Telepresence (full) |
-| [DevSpace](https://github.com/devspace-sh/devspace) | Go | Apache-2.0 | [v6.3.21](https://github.com/devspace-sh/devspace/releases/tag/v6.3.21) signed | 5224 | Skaffold (full) |
+| [DevSpace](https://github.com/devspace-sh/devspace) | Go | Apache-2.0 | [v6.3.21](https://github.com/devspace-sh/devspace/releases/tag/v6.3.21) signed | 5225 | Skaffold (full) |
 | [Garden](https://github.com/garden-io/garden) | TypeScript | MPL-2.0 | [0.14.20](https://github.com/garden-io/garden/releases/tag/0.14.20) | 3620 | Skaffold (partial) |
 | [Okteto CLI](https://github.com/okteto/okteto) | Go | Apache-2.0 | [3.24.1](https://github.com/okteto/okteto/releases/tag/3.24.1) signed | 3554 | GitHub Codespaces (partial), Skaffold (partial) |
 

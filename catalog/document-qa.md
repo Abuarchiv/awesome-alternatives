@@ -4,14 +4,14 @@ Ask questions about your own documents and sources through retrieval-augmented g
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [RAGFlow](https://github.com/infiniflow/ragflow) | Go | Apache-2.0 | [v1.0.0-rc3](https://github.com/infiniflow/ragflow/releases/tag/v1.0.0-rc3) signed | 93434 | NotebookLM (partial) |
+| [RAGFlow](https://github.com/infiniflow/ragflow) | Go | Apache-2.0 | [v1.0.0-rc3](https://github.com/infiniflow/ragflow/releases/tag/v1.0.0-rc3) signed | 93459 | NotebookLM (partial) |
 | [PrivateGPT](https://github.com/zylon-ai/private-gpt) | Python | Apache-2.0 | [v1.0.1](https://github.com/zylon-ai/private-gpt/releases/tag/v1.0.1) signed | 57629 | NotebookLM (partial) |
-| [Open Notebook](https://github.com/lfnovo/open-notebook) | TypeScript | MIT | [v1.15.0](https://github.com/lfnovo/open-notebook/releases/tag/v1.15.0) signed | 41491 | NotebookLM (full) |
-| [LightRAG](https://github.com/HKUDS/LightRAG) | Python | MIT | [v1.5.7](https://github.com/HKUDS/LightRAG/releases/tag/v1.5.7) | 40511 | NotebookLM (partial) |
-| [Onyx](https://github.com/onyx-dot-app/onyx) | Python | Other | [v5.0.3](https://github.com/onyx-dot-app/onyx/releases/tag/v5.0.3) signed | 33184 | Glean (full) |
-| [kotaemon](https://github.com/Cinnamon/kotaemon) | Python | Apache-2.0 | [v0.12.0](https://github.com/Cinnamon/kotaemon/releases/tag/v0.12.0) | 25855 | NotebookLM (partial) |
-| [DocsGPT](https://github.com/arc53/DocsGPT) | Python | MIT | [1.1.0](https://github.com/arc53/DocsGPT/releases/tag/1.1.0) signed | 18355 | Glean (partial) |
-| [SurfSense](https://github.com/MODSetter/SurfSense) | Python | Apache-2.0 | [v2.3.1](https://github.com/MODSetter/SurfSense/releases/tag/v2.3.1) signed | 16757 | NotebookLM (full), Glean (partial) |
+| [Open Notebook](https://github.com/lfnovo/open-notebook) | TypeScript | MIT | [v1.15.0](https://github.com/lfnovo/open-notebook/releases/tag/v1.15.0) signed | 41534 | NotebookLM (full) |
+| [LightRAG](https://github.com/HKUDS/LightRAG) | Python | MIT | [v1.5.7](https://github.com/HKUDS/LightRAG/releases/tag/v1.5.7) | 40517 | NotebookLM (partial) |
+| [Onyx](https://github.com/onyx-dot-app/onyx) | Python | Other | [v5.0.3](https://github.com/onyx-dot-app/onyx/releases/tag/v5.0.3) signed | 33195 | Glean (full) |
+| [kotaemon](https://github.com/Cinnamon/kotaemon) | Python | Apache-2.0 | [v0.12.0](https://github.com/Cinnamon/kotaemon/releases/tag/v0.12.0) | 25856 | NotebookLM (partial) |
+| [DocsGPT](https://github.com/arc53/DocsGPT) | Python | MIT | [1.1.0](https://github.com/arc53/DocsGPT/releases/tag/1.1.0) signed | 18354 | Glean (partial) |
+| [SurfSense](https://github.com/MODSetter/SurfSense) | Python | Apache-2.0 | [v2.3.1](https://github.com/MODSetter/SurfSense/releases/tag/v2.3.1) signed | 16770 | NotebookLM (full), Glean (partial) |
 | [Morphik](https://github.com/morphik-org/morphik-core) | Python | Other | none | 3720 | none |
 
 [All categories](../README.md#catalog)

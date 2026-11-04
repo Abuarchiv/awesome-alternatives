@@ -4,9 +4,9 @@ Send files straight from one device to another, nearby or through a relay, witho
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [LocalSend](https://github.com/localsend/localsend) | Dart | Apache-2.0 | [v1.18.2](https://github.com/localsend/localsend/releases/tag/v1.18.2) signed | 97179 | AirDrop (full) |
-| [croc](https://github.com/schollz/croc) | Go | MIT | [v11.6.3](https://github.com/schollz/croc/releases/tag/v11.6.3) | 40846 | WeTransfer (partial), AirDrop (partial) |
-| [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) | Python | MIT | [0.24.0](https://github.com/magic-wormhole/magic-wormhole/releases/tag/0.24.0) signed | 23081 | WeTransfer (partial) |
-| [PairDrop](https://github.com/schlagmichdoch/PairDrop) | JavaScript | GPL-3.0 | [v1.11.2](https://github.com/schlagmichdoch/PairDrop/releases/tag/v1.11.2) | 11745 | AirDrop (partial) |
+| [LocalSend](https://github.com/localsend/localsend) | Dart | Apache-2.0 | [v1.18.2](https://github.com/localsend/localsend/releases/tag/v1.18.2) signed | 97229 | AirDrop (full) |
+| [croc](https://github.com/schollz/croc) | Go | MIT | [v11.6.3](https://github.com/schollz/croc/releases/tag/v11.6.3) | 40853 | WeTransfer (partial), AirDrop (partial) |
+| [Magic Wormhole](https://github.com/magic-wormhole/magic-wormhole) | Python | MIT | [0.24.0](https://github.com/magic-wormhole/magic-wormhole/releases/tag/0.24.0) signed | 23082 | WeTransfer (partial) |
+| [PairDrop](https://github.com/schlagmichdoch/PairDrop) | JavaScript | GPL-3.0 | [v1.11.2](https://github.com/schlagmichdoch/PairDrop/releases/tag/v1.11.2) | 11746 | AirDrop (partial) |
 
 [All categories](../README.md#catalog)

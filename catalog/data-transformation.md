@@ -4,8 +4,8 @@ Build and test SQL and Python models inside a warehouse, and define metrics and 
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Cube](https://github.com/cube-js/cube) | Rust | Other | [v1.8.18](https://github.com/cube-js/cube/releases/tag/v1.8.18) | 21154 | Looker (partial) |
-| [dbt](https://github.com/dbt-labs/dbt) | Rust | Apache-2.0 | [v2.0.11](https://github.com/dbt-labs/dbt/releases/tag/v2.0.11) | 14114 | dbt Cloud (partial) |
+| [Cube](https://github.com/cube-js/cube) | Rust | Other | [v1.8.18](https://github.com/cube-js/cube/releases/tag/v1.8.18) | 21157 | Looker (partial) |
+| [dbt](https://github.com/dbt-labs/dbt) | Rust | Apache-2.0 | [v2.0.11](https://github.com/dbt-labs/dbt/releases/tag/v2.0.11) | 14118 | dbt Cloud (partial) |
 | [SQLMesh](https://github.com/SQLMesh/sqlmesh) | Python | Apache-2.0 | [v0.236.4](https://github.com/SQLMesh/sqlmesh/releases/tag/v0.236.4) signed | 3345 | dbt (partial), dbt Cloud (full) |
 | [MetricFlow](https://github.com/dbt-labs/metricflow) | Python | Apache-2.0 | [v0.213.0](https://github.com/dbt-labs/metricflow/releases/tag/v0.213.0) signed | 1858 | Cube (full), Looker (partial) |
 | [Bruin](https://github.com/bruin-data/bruin) | Go | Apache-2.0 | [v0.11.806](https://github.com/bruin-data/bruin/releases/tag/v0.11.806) signed | 1799 | dbt (partial) |

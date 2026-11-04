@@ -6,6 +6,6 @@ Push events from a backend to browsers and apps over WebSocket or Server-Sent Ev
 |---|---|---|---|---:|---|
 | [Centrifugo](https://github.com/centrifugal/centrifugo) | Go | Apache-2.0 | [v6.10.2](https://github.com/centrifugal/centrifugo/releases/tag/v6.10.2) signed | 10946 | Pusher Channels (full) |
 | [Mercure](https://github.com/dunglas/mercure) | Go | AGPL-3.0 | [v1.1.5](https://github.com/dunglas/mercure/releases/tag/v1.1.5) | 5357 | Pusher Channels (partial) |
-| [Sockudo](https://github.com/sockudo/sockudo) | Rust | MIT | [v5.2.0](https://github.com/sockudo/sockudo/releases/tag/v5.2.0) | 842 | Pusher Channels (drop-in) |
+| [Sockudo](https://github.com/sockudo/sockudo) | Rust | MIT | [v5.2.0](https://github.com/sockudo/sockudo/releases/tag/v5.2.0) | 843 | Pusher Channels (drop-in) |
 
 [All categories](../README.md#catalog)
