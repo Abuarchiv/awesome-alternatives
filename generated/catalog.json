@@ -163369,27 +163369,34 @@
         "fork": false,
         "private": false,
         "createdAt": "2026-08-14T10:21:51Z",
-        "pushedAt": "2026-11-05T02:18:58Z",
+        "pushedAt": "2026-11-05T06:14:29Z",
         "defaultBranch": "main"
       },
       "trend": {
         "stars": 3,
         "exact": true,
-        "since": "2026-10-06T05:17:16.986Z"
+        "since": "2026-10-06T06:15:11.312Z"
       },
       "starHistory": {
         "from": "2026-10-05",
         "stars": [2,2,2,2,2,2,2,3,3,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5]
       },
       "release": {
-        "tag": "v1.26.48",
-        "publishedAt": "2026-11-04T02:07:43Z",
-        "url": "https://github.com/FerrLabs/LFSX/releases/tag/v1.26.48",
+        "tag": "v1.26.49",
+        "publishedAt": "2026-11-05T06:14:34Z",
+        "url": "https://github.com/FerrLabs/LFSX/releases/tag/v1.26.49",
         "source": "release",
         "signed": true,
-        "tagOid": "701105ba0880d455d8e3466568e6e4eb77dcad4d"
+        "tagOid": "f10dd5633324fd80168ce8e4f36e13cca3e07fed"
       },
       "releases": [
+        {
+          "tag": "v1.26.49",
+          "name": "fix(deps): update ferrlabs npm packages to v1.26.48 (#732)",
+          "publishedAt": "2026-11-05T06:14:34Z",
+          "url": "https://github.com/FerrLabs/LFSX/releases/tag/v1.26.49",
+          "prerelease": false
+        },
         {
           "tag": "v1.26.48",
           "name": "fix(deps): update ferrlabs npm packages to v1.26.47 (#730)",
@@ -163417,41 +163424,13 @@
           "publishedAt": "2026-11-01T18:18:12Z",
           "url": "https://github.com/FerrLabs/LFSX/releases/tag/site%402026.11.1",
           "prerelease": false
-        },
-        {
-          "tag": "v1.26.45",
-          "name": "fix(deps): update rustls-webpki, webpki-roots, ctutils and yoke-derive (#717)",
-          "publishedAt": "2026-10-31T15:14:46Z",
-          "url": "https://github.com/FerrLabs/LFSX/releases/tag/v1.26.45",
-          "prerelease": false
         }
       ],
       "contributors": {
         "count": 1,
         "capped": true
       },
-      "platforms": [
-        {
-          "os": "linux",
-          "architectures": [
-            "x86_64",
-            "arm64"
-          ]
-        },
-        {
-          "os": "macos",
-          "architectures": [
-            "x86_64",
-            "arm64"
-          ]
-        },
-        {
-          "os": "windows",
-          "architectures": [
-            "x86_64"
-          ]
-        }
-      ],
+      "platforms": [],
       "maintainerVerified": true,
       "verifiedAt": "2026-10-06T12:10:21.000Z",
       "flags": [],

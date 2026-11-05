@@ -6065,7 +6065,6 @@
   {"type":"released","slug":"lance","at":"2026-10-27T05:17:15.563Z","commit":"9cadd3df6b0a56ebdcabda368ffd39fd996cfbc6","from":"v13.0.0","to":"v14.0.0"},
   {"type":"released","slug":"langfuse","at":"2026-10-27T05:17:15.563Z","commit":"9cadd3df6b0a56ebdcabda368ffd39fd996cfbc6","from":"v4.70.0","to":"v4.70.1"},
   {"type":"released","slug":"lemmy","at":"2026-10-27T05:17:15.563Z","commit":"9cadd3df6b0a56ebdcabda368ffd39fd996cfbc6","from":"0.19.20","to":"0.19.21"},
-  {"type":"released","slug":"lfsx","at":"2026-10-27T05:17:15.563Z","commit":"9cadd3df6b0a56ebdcabda368ffd39fd996cfbc6","from":"v1.26.38","to":"site@2026.10.36"},
   {"type":"released","slug":"limesurvey","at":"2026-10-27T05:17:15.563Z","commit":"9cadd3df6b0a56ebdcabda368ffd39fd996cfbc6","from":"7.5.1+261007","to":"7.7.0+261020"},
   {"type":"released","slug":"llama-vscode","at":"2026-10-27T05:17:15.563Z","commit":"9cadd3df6b0a56ebdcabda368ffd39fd996cfbc6","from":"v0.0.72","to":"v0.0.73"},
   {"type":"released","slug":"ludwig","at":"2026-10-27T05:17:15.563Z","commit":"9cadd3df6b0a56ebdcabda368ffd39fd996cfbc6","from":"v0.17.9","to":"v0.17.10"},
@@ -7699,5 +7698,6 @@
   {"type":"released","slug":"zed","at":"2026-11-05T05:17:16.986Z","commit":null,"from":"v1.26.2","to":"v1.27.0"},
   {"type":"released","slug":"zenml","at":"2026-11-05T05:17:16.986Z","commit":null,"from":"0.98.0","to":"0.98.1"},
   {"type":"released","slug":"zoo-modeling-app","at":"2026-11-05T05:17:16.986Z","commit":null,"from":"v1.5.3","to":"v1.5.4"},
-  {"type":"released","slug":"zoraxy","at":"2026-11-05T05:17:16.986Z","commit":null,"from":"v3.3.5-rc4","to":"v3.3.5-rc5"}
+  {"type":"released","slug":"zoraxy","at":"2026-11-05T05:17:16.986Z","commit":null,"from":"v3.3.5-rc4","to":"v3.3.5-rc5"},
+  {"type":"released","slug":"lfsx","at":"2026-11-05T06:15:37.080Z","commit":null,"from":"v1.26.48","to":"v1.26.49"}
 ]
