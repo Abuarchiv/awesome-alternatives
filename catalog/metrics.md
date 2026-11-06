@@ -4,20 +4,20 @@ Collect, store and query time series.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Netdata](https://github.com/netdata/netdata) | Go | GPL-3.0 | [v2.12.3](https://github.com/netdata/netdata/releases/tag/v2.12.3) | 81279 | Datadog (partial) |
-| [Prometheus](https://github.com/prometheus/prometheus) | Go | Apache-2.0 | [v3.15.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.1) signed | 66958 | Datadog (partial) |
-| [Beszel](https://github.com/henrygd/beszel) | Go | MIT | [v0.21.1](https://github.com/henrygd/beszel/releases/tag/v0.21.1) signed | 26841 | Netdata (partial), Datadog (partial) |
-| [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Go | Apache-2.0 | [v1.155.0](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.155.0) | 18016 | Prometheus (full), InfluxDB (partial), Datadog (partial) |
+| [Netdata](https://github.com/netdata/netdata) | Go | GPL-3.0 | [v2.12.3](https://github.com/netdata/netdata/releases/tag/v2.12.3) | 81288 | Datadog (partial) |
+| [Prometheus](https://github.com/prometheus/prometheus) | Go | Apache-2.0 | [v3.16.0](https://github.com/prometheus/prometheus/releases/tag/v3.16.0) signed | 66973 | Datadog (partial) |
+| [Beszel](https://github.com/henrygd/beszel) | Go | MIT | [v0.21.1](https://github.com/henrygd/beszel/releases/tag/v0.21.1) signed | 26867 | Netdata (partial), Datadog (partial) |
+| [VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) | Go | Apache-2.0 | [v1.155.0](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.155.0) | 18022 | Prometheus (full), InfluxDB (partial), Datadog (partial) |
 | [Telegraf](https://github.com/influxdata/telegraf) | Go | MIT | [v1.40.3](https://github.com/influxdata/telegraf/releases/tag/v1.40.3) | 17895 | collectd (full), Datadog (partial) |
 | [Thanos](https://github.com/thanos-io/thanos) | Go | Apache-2.0 | [v0.42.5](https://github.com/thanos-io/thanos/releases/tag/v0.42.5) | 14267 | Prometheus (partial), Datadog (partial) |
-| [Apache HertzBeat](https://github.com/apache/hertzbeat) | Java | Apache-2.0 | [v1.9.0](https://github.com/apache/hertzbeat/releases/tag/v1.9.0) signed | 7455 | Zabbix (full), Datadog (partial), PRTG Network Monitor (partial) |
-| [Zabbix](https://github.com/zabbix/zabbix) | Go Template | AGPL-3.0 | [7.4.16](https://github.com/zabbix/zabbix/releases/tag/7.4.16) | 6539 | Datadog (partial) |
-| [Cortex](https://github.com/cortexproject/cortex) | Go | Apache-2.0 | [v1.21.1](https://github.com/cortexproject/cortex/releases/tag/v1.21.1) signed | 5876 | Prometheus (partial) |
-| [Grafana Mimir](https://github.com/grafana/mimir) | Go | AGPL-3.0 | [mimir-3.2.4](https://github.com/grafana/mimir/releases/tag/mimir-3.2.4) signed | 5275 | Prometheus (partial), Datadog (partial) |
-| [LibreNMS](https://github.com/librenms/librenms) | PHP | Other | [26.10.2](https://github.com/librenms/librenms/releases/tag/26.10.2) | 4993 | SolarWinds Network Performance Monitor (full), PRTG Network Monitor (partial) |
+| [Apache HertzBeat](https://github.com/apache/hertzbeat) | Java | Apache-2.0 | [v1.9.0](https://github.com/apache/hertzbeat/releases/tag/v1.9.0) signed | 7460 | Zabbix (full), Datadog (partial), PRTG Network Monitor (partial) |
+| [Zabbix](https://github.com/zabbix/zabbix) | Go Template | AGPL-3.0 | [8.0.0](https://github.com/zabbix/zabbix/releases/tag/8.0.0) | 6541 | Datadog (partial) |
+| [Cortex](https://github.com/cortexproject/cortex) | Go | Apache-2.0 | [v1.21.1](https://github.com/cortexproject/cortex/releases/tag/v1.21.1) signed | 5875 | Prometheus (partial) |
+| [Grafana Mimir](https://github.com/grafana/mimir) | Go | AGPL-3.0 | [mimir-3.2.4](https://github.com/grafana/mimir/releases/tag/mimir-3.2.4) signed | 5277 | Prometheus (partial), Datadog (partial) |
+| [LibreNMS](https://github.com/librenms/librenms) | PHP | Other | [26.10.2](https://github.com/librenms/librenms/releases/tag/26.10.2) | 4995 | SolarWinds Network Performance Monitor (full), PRTG Network Monitor (partial) |
 | [M3](https://github.com/m3db/m3) | Go | Apache-2.0 | [v1.6.0](https://github.com/m3db/m3/releases/tag/v1.6.0) | 4909 | Thanos (full), Cortex (full), VictoriaMetrics (full) |
 | [collectd](https://github.com/collectd/collectd) | C | Other | [collectd-5.12.0](https://github.com/collectd/collectd/releases/tag/collectd-5.12.0) | 3369 | Telegraf (full) |
-| [Checkmk](https://github.com/Checkmk/checkmk) | Python | GPL-2.0 | [v2.5.0p17](https://github.com/Checkmk/checkmk/releases/tag/v2.5.0p17) | 2632 | PRTG Network Monitor (full) |
+| [Checkmk](https://github.com/Checkmk/checkmk) | Python | GPL-2.0 | [v2.5.0p17](https://github.com/Checkmk/checkmk/releases/tag/v2.5.0p17) | 2633 | PRTG Network Monitor (full) |
 | [Icinga](https://github.com/Icinga/icinga2) | C++ | GPL-3.0 | [v2.16.6](https://github.com/Icinga/icinga2/releases/tag/v2.16.6) signed | 2245 | PRTG Network Monitor (full) |
 | [Nagios Core](https://github.com/NagiosEnterprises/nagioscore) | C | GPL-2.0 | [nagios-4.5.14](https://github.com/NagiosEnterprises/nagioscore/releases/tag/nagios-4.5.14) | 2065 | PRTG Network Monitor (partial) |
 | [Cacti](https://github.com/Cacti/cacti) | PHP | GPL-2.0 | [release/1.2.31](https://github.com/Cacti/cacti/releases/tag/release/1.2.31) | 1888 | SolarWinds Network Performance Monitor (partial) |

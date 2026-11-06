@@ -4,17 +4,17 @@ Install several versions of a language runtime and switch between them per proje
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [nvm](https://github.com/nvm-sh/nvm) | Shell | MIT | [v0.41.0](https://github.com/nvm-sh/nvm/releases/tag/v0.41.0) signed | 95759 | none |
-| [NVM for Windows](https://github.com/nvm-windows/nvm) | Inno Setup | MIT | [v2.0.1](https://github.com/nvm-windows/nvm/releases/tag/v2.0.1) signed | 48136 | nvm (partial) |
-| [mise](https://github.com/jdx/mise) | Rust | MIT | [v2026.11.1](https://github.com/jdx/mise/releases/tag/v2026.11.1) signed | 35780 | asdf (full), nvm (full), Volta (full), pyenv (full) |
-| [fnm](https://github.com/Schniz/fnm) | Rust | GPL-3.0 | [v1.39.0](https://github.com/Schniz/fnm/releases/tag/v1.39.0) signed | 27297 | nvm (full) |
-| [asdf](https://github.com/asdf-vm/asdf) | Go | MIT | [v0.20.2](https://github.com/asdf-vm/asdf/releases/tag/v0.20.2) signed | 25612 | nvm (full), rbenv (full), SDKMAN! (partial) |
+| [nvm](https://github.com/nvm-sh/nvm) | Shell | MIT | [v0.41.0](https://github.com/nvm-sh/nvm/releases/tag/v0.41.0) signed | 95767 | none |
+| [NVM for Windows](https://github.com/nvm-windows/nvm) | Inno Setup | MIT | [v2.0.1](https://github.com/nvm-windows/nvm/releases/tag/v2.0.1) signed | 48144 | nvm (partial) |
+| [mise](https://github.com/jdx/mise) | Rust | MIT | [v2026.11.2](https://github.com/jdx/mise/releases/tag/v2026.11.2) signed | 35839 | asdf (full), nvm (full), Volta (full), pyenv (full) |
+| [fnm](https://github.com/Schniz/fnm) | Rust | GPL-3.0 | [v1.39.0](https://github.com/Schniz/fnm/releases/tag/v1.39.0) signed | 27309 | nvm (full) |
+| [asdf](https://github.com/asdf-vm/asdf) | Go | MIT | [v0.20.2](https://github.com/asdf-vm/asdf/releases/tag/v0.20.2) signed | 25615 | nvm (full), rbenv (full), SDKMAN! (partial) |
 | [n](https://github.com/tj/n) | Shell | MIT | [v11.0.0](https://github.com/tj/n/releases/tag/v11.0.0) | 19511 | nvm (full) |
-| [rbenv](https://github.com/rbenv/rbenv) | Shell | MIT | [v1.3.2](https://github.com/rbenv/rbenv/releases/tag/v1.3.2) signed | 16739 | none |
+| [rbenv](https://github.com/rbenv/rbenv) | Shell | MIT | [v1.3.2](https://github.com/rbenv/rbenv/releases/tag/v1.3.2) signed | 16740 | none |
 | [Volta](https://github.com/volta-cli/volta) | Rust | Other | [v2.0.2](https://github.com/volta-cli/volta/releases/tag/v2.0.2) signed | 13056 | nvm (full) |
-| [rustup](https://github.com/rust-lang/rustup) | Rust | Apache-2.0 | [1.29.3](https://github.com/rust-lang/rustup/releases/tag/1.29.3) signed | 7104 | none |
-| [SDKMAN!](https://github.com/sdkman/sdkman-cli) | Shell | Apache-2.0 | [5.24.0](https://github.com/sdkman/sdkman-cli/releases/tag/5.24.0) | 6880 | none |
-| [vfox](https://github.com/version-fox/vfox) | Go | Apache-2.0 | [v1.0.13](https://github.com/version-fox/vfox/releases/tag/v1.0.13) | 4009 | asdf (partial) |
+| [rustup](https://github.com/rust-lang/rustup) | Rust | Apache-2.0 | [1.29.3](https://github.com/rust-lang/rustup/releases/tag/1.29.3) signed | 7106 | none |
+| [SDKMAN!](https://github.com/sdkman/sdkman-cli) | Shell | Apache-2.0 | [5.24.0](https://github.com/sdkman/sdkman-cli/releases/tag/5.24.0) | 6879 | none |
+| [vfox](https://github.com/version-fox/vfox) | Go | Apache-2.0 | [v1.0.13](https://github.com/version-fox/vfox/releases/tag/v1.0.13) | 4010 | asdf (partial) |
 | [proto](https://github.com/moonrepo/proto) | Rust | MIT | [v0.63.2](https://github.com/moonrepo/proto/releases/tag/v0.63.2) | 1446 | Volta (full), nvm (full) |
 
 [All categories](../README.md#catalog)
