@@ -6285,7 +6285,6 @@
   {"type":"released","slug":"whodb","at":"2026-10-28T05:17:20.713Z","commit":"e3ea6ffd78502830106561aac3bd47d8c447fb17","from":"0.136.0","to":"0.138.0"},
   {"type":"released","slug":"windmill","at":"2026-10-28T05:17:20.713Z","commit":"e3ea6ffd78502830106561aac3bd47d8c447fb17","from":"v1.850.0","to":"v1.851.0"},
   {"type":"released","slug":"ferrflow","at":"2026-10-28T08:51:30.443Z","commit":"a45bb7004bad42798b3f53925dcd8fa86c979719","from":"v7.35.0","to":"v7.35.1"},
-  {"type":"released","slug":"lfsx","at":"2026-10-29T02:06:45.779Z","commit":"c80e4fafd384e7ad95b63877a0f8c54a40e258dc","from":"v1.26.42","to":"site@2026.10.39"},
   {"type":"released","slug":"act","at":"2026-10-29T05:17:16.292Z","commit":"2ab4f1758b9b2bc332da7ceda2e221ed31b22b4a","from":"v0.2.89","to":"v0.2.92"},
   {"type":"released","slug":"activepieces","at":"2026-10-29T05:17:16.292Z","commit":"2ab4f1758b9b2bc332da7ceda2e221ed31b22b4a","from":"0.92.3-hotfix.1","to":"0.92.3-hotfix.2"},
   {"type":"released","slug":"agenta","at":"2026-10-29T05:17:16.292Z","commit":"2ab4f1758b9b2bc332da7ceda2e221ed31b22b4a","from":"v0.125.3","to":"v0.126.0"},
@@ -7987,5 +7986,6 @@
   {"type":"released","slug":"zen-browser","at":"2026-11-07T05:17:23.621Z","commit":null,"from":"1.24b","to":"1.24.1b"},
   {"type":"released","slug":"zotero","at":"2026-11-07T05:17:23.621Z","commit":null,"from":"10.0.7","to":"10.0.8"},
   {"type":"released","slug":"zulip","at":"2026-11-07T05:17:23.621Z","commit":null,"from":"12.3","to":"12.4"},
-  {"type":"released","slug":"zustand","at":"2026-11-07T05:17:23.621Z","commit":null,"from":"v5.0.16","to":"v5.1.0"}
+  {"type":"released","slug":"zustand","at":"2026-11-07T05:17:23.621Z","commit":null,"from":"v5.0.16","to":"v5.1.0"},
+  {"type":"released","slug":"lfsx","at":"2026-11-07T14:16:46.732Z","commit":null,"from":"v1.26.50","to":"v1.26.51"}
 ]
