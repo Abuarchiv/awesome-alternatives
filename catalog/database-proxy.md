@@ -7,6 +7,6 @@ Pool, route and multiplex client connections in front of a database server.
 | [ProxySQL](https://github.com/sysown/proxysql) | C++ | GPL-3.0 | [v3.0.12](https://github.com/sysown/proxysql/releases/tag/v3.0.12) signed | 6938 | Amazon RDS Proxy (partial) |
 | [PgBouncer](https://github.com/pgbouncer/pgbouncer) | C | Other | [pgbouncer_1_26_1](https://github.com/pgbouncer/pgbouncer/releases/tag/pgbouncer_1_26_1) | 4439 | Amazon RDS Proxy (partial) |
 | [Odyssey](https://github.com/yandex/odyssey) | C | BSD-3-Clause | [v1.5.2](https://github.com/yandex/odyssey/releases/tag/v1.5.2) | 3640 | Amazon RDS Proxy (partial) |
-| [Supavisor](https://github.com/supabase/supavisor) | Elixir | Apache-2.0 | [v2.10.0](https://github.com/supabase/supavisor/releases/tag/v2.10.0) signed | 2282 | Amazon RDS Proxy (partial) |
+| [Supavisor](https://github.com/supabase/supavisor) | Elixir | Apache-2.0 | [v2.10.0](https://github.com/supabase/supavisor/releases/tag/v2.10.0) signed | 2283 | Amazon RDS Proxy (partial) |
 
 [All categories](../README.md#catalog)

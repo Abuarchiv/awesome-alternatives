@@ -4,11 +4,11 @@ Browse and operate Kubernetes clusters from a desktop, web or terminal UI.
 
 | Tool | Language | Licence | Latest | Stars | Replaces |
 |---|---|---|---|---:|---|
-| [Portainer](https://github.com/portainer/portainer) | TypeScript | Zlib | [2.45.3](https://github.com/portainer/portainer/releases/tag/2.45.3) signed | 38786 | Lens (partial) |
-| [k9s](https://github.com/derailed/k9s) | Go | Apache-2.0 | [v0.51.0](https://github.com/derailed/k9s/releases/tag/v0.51.0) | 34935 | Lens (partial) |
-| [Rancher](https://github.com/rancher/rancher) | Go | Apache-2.0 | [v2.15.3](https://github.com/rancher/rancher/releases/tag/v2.15.3) signed | 26045 | Lens (full) |
+| [Portainer](https://github.com/portainer/portainer) | TypeScript | Zlib | [2.45.3](https://github.com/portainer/portainer/releases/tag/2.45.3) signed | 38792 | Lens (partial) |
+| [k9s](https://github.com/derailed/k9s) | Go | Apache-2.0 | [v0.51.0](https://github.com/derailed/k9s/releases/tag/v0.51.0) | 34936 | Lens (partial) |
+| [Rancher](https://github.com/rancher/rancher) | Go | Apache-2.0 | [v2.15.3](https://github.com/rancher/rancher/releases/tag/v2.15.3) signed | 26046 | Lens (full) |
 | [KubeSphere](https://github.com/kubesphere/kubesphere) | Go | Other | [v4.1.3](https://github.com/kubesphere/kubesphere/releases/tag/v4.1.3) signed | 17077 | Rancher (full), Lens (partial) |
-| [Headlamp](https://github.com/kubernetes-sigs/headlamp) | TypeScript | Apache-2.0 | [v0.46.0](https://github.com/kubernetes-sigs/headlamp/releases/tag/v0.46.0) | 7577 | Lens (full) |
+| [Headlamp](https://github.com/kubernetes-sigs/headlamp) | TypeScript | Apache-2.0 | [v0.46.0](https://github.com/kubernetes-sigs/headlamp/releases/tag/v0.46.0) | 7581 | Lens (full) |
 | [Freelens](https://github.com/freelensapp/freelens) | TypeScript | MIT | [v2.0.0](https://github.com/freelensapp/freelens/releases/tag/v2.0.0) signed | 5797 | Lens (full) |
 | [Devtron](https://github.com/devtron-labs/devtron) | Go | Apache-2.0 | [v2.2.1](https://github.com/devtron-labs/devtron/releases/tag/v2.2.1) signed | 5634 | Lens (partial), Octopus Deploy (partial) |
 | [Kite](https://github.com/kite-org/kite) | TypeScript | Apache-2.0 | [v0.16.0](https://github.com/kite-org/kite/releases/tag/v0.16.0) | 3190 | Lens (partial), Rancher (partial) |
